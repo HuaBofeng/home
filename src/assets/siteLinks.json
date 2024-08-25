@@ -15,14 +15,14 @@
     "link": "https://music.ayosiq.us.kg/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://www.ayosiq.us.kg/"
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://dec.ayosiq.us.kg/"
   },
   {
     "icon": "Google",
     "name": "ayosiqのGoogle",
-    "link": "http://google.ayosiq.us.kg/"
+    "link": "https://google.ayosiq.us.kg/"
   },
   {
     "icon": "Brain",
@@ -33,10 +33,5 @@
     "icon": "Book",
     "name": "网址集",
     "link": "http://dhw.ayosiq.us.kg/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://dec.ayosiq.us.kg/"
   }
 ]
