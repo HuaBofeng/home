@@ -72,7 +72,10 @@ const siteIcon = {
   LaptopCode,
   Heart,
   Brain,
-  Google,
+  SnapchatGhost,
+  Music,
+  Tiktok,
+  Fingerprint,
 };
 
 // 链接跳转
