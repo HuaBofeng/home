@@ -43,5 +43,10 @@
     "icon": "Fingerprint",
     "name": "万能代理",
     "link": "https://proxy.lanni.us.kg/"
+  },
+  {
+    "icon": "Music",
+    "name": "网易云音乐api",
+    "link": "https://musicapi.lanni.us.kg/"
   }
 ]
